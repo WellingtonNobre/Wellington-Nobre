@@ -20,7 +20,7 @@
 
  Estou estudando atualmente Desenvolvimento WEB completo, voltado para Front-end
  
- <i><b>JavaScript, HTML5, CSS3, Python3, MySQL</i></b>  
+ <i><b>JavaScript, HTML5, CSS3, MySQL</i></b>  
  
    <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
